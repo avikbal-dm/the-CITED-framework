@@ -221,9 +221,9 @@ CITED is a system, not a one-time audit. The brands that win AI search are the o
 
 ## About
 
-The CITED framework and Maturity Model were developed by **Avik Bal**, a digital growth strategist focused on generative engine optimization, answer engine optimization, and AI search visibility for B2B software.
+The CITED framework and Maturity Model were developed by **Avik Bal**, a digital growth strategist focused on search engine optimization, generative engine optimization, answer engine optimization, and AI search visibility for B2B software.
 
 - LinkedIn: [linkedin.com/in/avikbal](https://linkedin.com/in/avikbal)
-- Website: [avikbal.com](https://avikbal.com)
+- Get the Book: THE CITED [https://www.amazon.in/stores/author/B072Q716KM/allbooks]
 
 *CITED: Citation Surface · Information Architecture · Technical Foundation · Evidence-Rich Extraction · Demand Capture.*
